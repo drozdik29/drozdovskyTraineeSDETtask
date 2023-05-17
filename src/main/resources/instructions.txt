@@ -1,0 +1,5 @@
+Steps for starting testing:
+1.Find and open package "src"
+2.Find and open package "test"
+3.Find and open file "TraineeTest"
+4.Сlick the green triangle button to run tests
